@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+}
+.top{
+    width: 100px;
+    height: 500px;
+    margin: 0 auto;
+    border: solid 1px;
+}
+.word{
+    width: 300px;
+    height: 150px;
+    background: brown;
+}
