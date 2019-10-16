@@ -1,0 +1,44 @@
+.h-wap{
+    width:100%;
+    text-align: center;
+}
+.h-cont-wap{
+    overflow: hidden;
+    height: auto;
+    margin:0 auto;
+    width:1200px;
+   
+}
+.h-cont-wap .h-cont{
+    width:1030px;
+    border-bottom:1px solid #cfcfcf;
+    margin-bottom: 35px;
+    margin:0 auto;
+}
+.h-cont .text{
+    float: left;
+    padding:12px 35px;
+    font-size:12px;
+}
+.h-cont .txt{
+    background:#00cefd;
+    height:25px;
+    width:116px;
+    padding:0px 0px;
+    line-height: 25px;
+    margin-top: 10px;
+    color:#fff;
+    border-radius: 30px;
+}
+.h-cont .h-hend{
+    text-align: center;
+}
+.h-slideshow-wap{
+width:1200px;
+margin:0 auto;
+
+margin-bottom: 58px;
+}
+.h-slideshow-wap img{
+    padding:0 3px;
+}
