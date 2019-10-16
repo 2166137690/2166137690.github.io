@@ -56,6 +56,11 @@
     float: left;
 }
 
+.top_left img{
+    width: 240px;
+    height: 47px;
+}
+
 .top_right{
     width: 268px;
     height: 26px;
