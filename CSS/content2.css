@@ -1,0 +1,130 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+body{
+    margin:0;
+    padding:0;
+}
+#content2{
+    width:100%;
+    height:1245px;
+    background:#fff;
+}
+.head{
+    width:100%;
+    height:80px;
+    margin:0 auto;
+    background:#fff;
+    text-align:center;
+    margin:20px auto;
+}
+.head h3{
+    margin-bottom:4px;
+    height:30px;
+    /* border:1px solid red; */
+    font-size:25px;
+}
+.head p{
+    color:#a0a0a0;
+    height:19px;
+    font-size:15px;
+    /* border:1px solid red; */
+}
+.big{
+    width:100%;
+    height:520px;
+    background-image: url(../image/xibao.jpg);
+    background-size: 100% 100%;
+    text-align: center;
+}
+.imgone{
+    width:363px;
+    height:95px;
+    margin-top:57px;
+}
+.ulone{
+    width:45%;
+    height:335px;
+    margin:20px auto;
+    margin-top:20px;
+    text-align: center;
+}
+.ulone li{
+    float:left;
+    width:20%;
+    height:45%;
+    color:#fffaac;
+    font-size:11px;
+}
+.ulone li img{
+    width:90%;
+    border-radius:10px;
+}
+.ulone p{
+    margin-top:2px;
+}
+.second{
+    margin-top:100px;
+    width:100%;
+    height:80px;
+    background:#fff;
+    text-align:center;
+    /* margin:20px auto; */
+}
+.second h3{
+    margin-bottom:4px;
+    height:30px;
+    /* border:1px solid red; */
+    font-size:25px;
+}
+.second p{
+    color:#a0a0a0;
+    height:19px;
+    font-size:14px;
+    /* border:1px solid red; */
+}
+/* .foot{
+    width:1160px;
+    height:260px;
+} */
+.ultwo{
+    width:950px;
+    height:100%;
+    height:260px;
+    margin:20px auto;
+    text-align:center;
+}
+.ultwo img{
+    width:105px;
+    height:100px;
+    float:left;
+}
+.ultwo li{
+    float:left;
+    width:33%;
+    height:50%;
+}
+.ultwo li p,h6{
+    float:left;
+    margin-left:5px;
+}
+.ultwo li p{
+    color:#a0a0a0;
+    height:11px;
+}
+
+.ultwo li .p1{
+    font-size:12px;
+    margin-top:9px;
+}
+
+.ultwo li h6{
+    font-size:12px;
+    margin-top:5px;
+}
+.p2{
+    font-size:8px;
+    margin-top:15px;
+}
