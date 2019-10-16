@@ -4,16 +4,17 @@
 }
 .h-cont-wap{
     overflow: hidden;
-    height: auto;
     margin:0 auto;
     width:1200px;
+    margin-bottom:18px;
    
 }
 .h-cont-wap .h-cont{
     width:1030px;
-    border-bottom:1px solid #cfcfcf;
+    height:45px;
     margin-bottom: 35px;
     margin:0 auto;
+    border-bottom: 2px solid #f6f6f6;
 }
 .h-cont .text{
     float: left;
