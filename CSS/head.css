@@ -1,0 +1,20 @@
+.h-wap{
+    width:100%;
+}
+.h-cont{
+    overflow: hidden;
+    height: auto;
+    margin:0 auto;
+    width:1200px;
+}
+.h-cont .h-hend{
+    text-align: center;
+}
+.h-cont .h-cont-tab{
+    border-top:1px solid #eee;
+}
+.h-cont .h-cont-tab li{
+    float: left;
+    display: block;
+    margin-right:45px;
+}
