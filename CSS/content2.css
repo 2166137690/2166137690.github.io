@@ -54,7 +54,7 @@ body{
 .ulone li{
     float:left;
     width:20%;
-    height:45%;
+    height:48%;
     color:#fffaac;
     font-size:11px;
 }
@@ -62,9 +62,9 @@ body{
     width:90%;
     border-radius:10px;
 }
-/* .ulone p{
-    margin-top:2px;
-} */
+.ulone p{
+    height:10px;
+}
 .second{
     margin-top:100px;
     width:100%;
