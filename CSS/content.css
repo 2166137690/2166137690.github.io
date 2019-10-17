@@ -3,7 +3,21 @@
     width: 1200px;
     margin: auto;
 }
-
+.carousel-indicators li{
+    width: 44px;
+    border-radius: 42%;
+}
+.carousel-indicators .active{
+    width:50px!important;
+    background-color: yellow
+    !important;
+}
+.carousel-indicators{
+    left: 18%
+    !important;
+    bottom:-15%
+    !important;
+}
 .kuan{
     width:1200px;
     height:800px;
@@ -14,7 +28,6 @@
     width: 940px;;
     height: 600px;
     position: relative;
-    
 }
 
 .bigg {
@@ -29,7 +42,6 @@
 
 .carousel {
     width: 80%;
-   
 }
 
 .leftimg {
