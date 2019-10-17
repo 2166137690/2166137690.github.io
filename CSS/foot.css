@@ -93,7 +93,7 @@
     display: flex;
     justify-content: space-around;
     float: left;
-    padding-top: 40px;
+    padding-top: 30px;
 }
 .left-zuo,.center-zhong{
     width: 100px;
@@ -102,7 +102,7 @@
 .left-zuo > p,.center-zhong >p{
     font-size: 16px;
     color: #999999;
-    margin-top: 3px;
+    margin-bottom: 2px;
 }
 .right-you{
     width: 250px;
@@ -112,11 +112,11 @@
 .right-you > p{
     font-size: 16px;
     color: #999999;
-    margin-top: 3px;
+    margin-top: 2px;
 }
 .rightt{
-    width: 120px;
-    height: 130px;
+    width: 100px;
+    height: 145px;
     float: left;
     padding-top: 40px;
 }
