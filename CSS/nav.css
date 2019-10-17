@@ -137,7 +137,7 @@
     text-decoration: none;
 }
 
-.cont_hover>a:hover .cont_hover1{
+.cont_hover a:hover .cont_hover1 {
     display: block;
     text-decoration: none;
 }
