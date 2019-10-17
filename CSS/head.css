@@ -1,11 +1,11 @@
 .head_box,.head_hj{
-    width: 100%;
+    width: 1200px;
 }
 .head_te{
-    width: 1550px;
+    width: 1200px;
 }
 .head_tex{
-    margin:20px auto ;
+    margin:20px 630px ;
     width:300px;
     height: 60px;
     background: #3399FF;
@@ -33,25 +33,25 @@ width: 150px;
 height: 40px;
 border: 2px solid #528CB3;
 border-radius: 20px;
-margin: 0 auto;
+margin: 0 710px;
 line-height: 36px;
 text-align: center;
 color: #528CB3;
 }
 .head_hj{
-    width: 1550px;
+    width: 1200px;
     margin-bottom: 40px;
 }
 .head_one{
     width: 300px;
     height: 50px;
-    margin: 40px auto;
+    margin: 40px 630px;
     font-size: 25px;
 }
 .head_two{
     width: 300px;
     height: 50px;
-    margin: -40px auto;
+    margin: -40px 620px;
     font-size: 12px;
     text-align: center;
     color: #CECECE;
@@ -61,13 +61,13 @@ color: #528CB3;
     margin-top: 20px;
 }
 .head_tuu_one{
-    margin-left: 280px;
+    margin-left: 320px;
 }
 .head_tuu_one>img{
     height: 300px;
 }
 .head_tuu_two{
-    margin: -300px 43%;
+    margin: -300px 690px;
     width: 620px;
     height: 300px;
     display: flex;
