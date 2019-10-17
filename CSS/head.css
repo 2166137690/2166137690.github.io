@@ -1,14 +1,11 @@
+
 .head_box{
-    margin-left:-70px ;
-}
-.head_box,.head_hj{
-    width: 1200px;
-}
-.head_te{
-    width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 20px;
 }
 .head_tex{
-    margin:20px 690px ;
+    margin: 20px auto;
     width:270px;
     height: 60px;
     background: #3399FF;
@@ -19,7 +16,7 @@
 }
 
 .head_tu{
-    margin:20px 440px ;
+    margin: 20px auto;
     width: 800px;
     height: 200px;
     display: flex;
@@ -35,41 +32,41 @@ width: 150px;
 height: 40px;
 border: 2px solid #528CB3;
 border-radius: 20px;
-margin: 0 750px;
+margin: 20px auto;
 line-height: 36px;
 text-align: center;
 color: #528CB3;
 }
 .head_hj{
     width: 1200px;
-    margin-bottom: 40px;
+    margin: 0 auto;
 }
 .head_one{
     width: 300px;
     height: 50px;
-    margin: 40px 670px;
+    margin: 0 auto;
     font-size: 25px;
 }
 .head_two{
     width: 300px;
     height: 50px;
-    margin: -40px 660px;
+    margin: 0 auto;
     font-size: 12px;
     text-align: center;
     color: #CECECE;
 }
 .head_tuu{
     height:300px;
-    margin-top: 20px;
 }
 .head_tuu_one{
     margin-left: 330px;
+    margin: 0 100px;
 }
 .head_tuu_one>img{
     height: 300px;
 }
 .head_tuu_two{
-    margin: -300px 690px;
+    margin: -300px 470px;
     width: 620px;
     height: 300px;
     display: flex;
