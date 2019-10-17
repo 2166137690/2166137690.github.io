@@ -142,17 +142,13 @@
     text-decoration: none;
 }
 
-.banner img{
-    margin-top: -2px;
-}
-
 .frool{
     width: 1118px;
     height: 144px;
     background: #fff;
     position: absolute;
     top: 592px;
-    left: 401px;
+    left: 259px;
 }
 
 .frool ul{

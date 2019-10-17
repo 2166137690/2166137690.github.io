@@ -32,7 +32,7 @@ body{
     font-size:15px;
     /* border:1px solid red; */
 }
-.big{
+.bigs{
     width:100%;
     height:520px;
     background-image: url(../image/xibao.jpg);
@@ -62,9 +62,9 @@ body{
     width:90%;
     border-radius:10px;
 }
-.ulone p{
+/* .ulone p{
     margin-top:2px;
-}
+} */
 .second{
     margin-top:100px;
     width:100%;
