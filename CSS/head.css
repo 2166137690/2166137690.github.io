@@ -1,3 +1,6 @@
+.head_box{
+    margin-left:-70px ;
+}
 .head_box,.head_hj{
     width: 1200px;
 }
@@ -5,7 +8,7 @@
     width: 1200px;
 }
 .head_tex{
-    margin:20px 630px ;
+    margin:20px 670px ;
     width:300px;
     height: 60px;
     background: #3399FF;
@@ -16,7 +19,7 @@
 }
 
 .head_tu{
-    margin:20px 390px ;
+    margin:20px 420px ;
     width: 800px;
     height: 200px;
    
@@ -33,7 +36,7 @@ width: 150px;
 height: 40px;
 border: 2px solid #528CB3;
 border-radius: 20px;
-margin: 0 710px;
+margin: 0 740px;
 line-height: 36px;
 text-align: center;
 color: #528CB3;
@@ -45,13 +48,13 @@ color: #528CB3;
 .head_one{
     width: 300px;
     height: 50px;
-    margin: 40px 630px;
+    margin: 40px 690px;
     font-size: 25px;
 }
 .head_two{
     width: 300px;
     height: 50px;
-    margin: -40px 620px;
+    margin: -40px 680px;
     font-size: 12px;
     text-align: center;
     color: #CECECE;
